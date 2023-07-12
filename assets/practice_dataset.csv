@@ -1,0 +1,270 @@
+name,type,start_p50,mid_p50,mid_p10,mid_p25,mid_p75,mid_p90,Ranked on Forbes
+Massachusetts Institute of Technology (MIT),Engineering,more than national average,126000.0,76800.0,99200.0,168000.0,220000.0,True
+California Institute of Technology (CIT),Engineering,more than national average,123000.0,44250.64935064935,104000.0,161000.0,157705.6277056277,False
+Harvey Mudd College,Engineering,more than national average,122000.0,44250.64935064935,96000.0,180000.0,157705.6277056277,False
+"Polytechnic University of New York, Brooklyn",Engineering,more than national average,114000.0,66800.0,94300.0,143000.0,190000.0,False
+Cooper Union,Engineering,more than national average,114000.0,44250.64935064935,80200.0,142000.0,157705.6277056277,False
+Worcester Polytechnic Institute (WPI),Engineering,more than national average,114000.0,80000.0,91200.0,137000.0,180000.0,False
+Carnegie Mellon University (CMU),Engineering,more than national average,111000.0,63300.0,80100.0,150000.0,209000.0,False
+Rensselaer Polytechnic Institute (RPI),Engineering,more than national average,110000.0,71600.0,85500.0,140000.0,182000.0,False
+Georgia Institute of Technology,Engineering,more than national average,106000.0,67200.0,85200.0,137000.0,183000.0,False
+Colorado School of Mines,Engineering,more than national average,106000.0,62200.0,87900.0,142000.0,201000.0,False
+Stevens Institute of Technology,Engineering,more than national average,105000.0,68700.0,81900.0,138000.0,185000.0,False
+Illinois Institute of Technology (IIT),Engineering,less than national average,97800.0,56100.0,77400.0,121000.0,165000.0,False
+Wentworth Institute of Technology,Engineering,less than national average,96700.0,55200.0,74000.0,117000.0,153000.0,False
+Virginia Polytechnic Institute and State University (Virginia Tech),Engineering,less than national average,95400.0,50600.0,71400.0,124000.0,163000.0,False
+South Dakota School of Mines & Technology,Engineering,less than national average,93400.0,71500.0,81900.0,122000.0,147000.0,False
+New Mexico Institute of Mining and Technology (New Mexico Tech),Engineering,less than national average,93400.0,44250.64935064935,67400.0,123000.0,157705.6277056277,False
+Rochester Institute of Technology (RIT),Engineering,less than national average,84600.0,45000.0,62100.0,112000.0,159000.0,False
+Embry-Riddle Aeronautical University (ERAU),Engineering,less than national average,80700.0,49800.0,64000.0,106000.0,142000.0,False
+Tennessee Technological University,Engineering,less than national average,80000.0,42100.0,62600.0,99500.0,121000.0,False
+University of Illinois at Urbana-Champaign (UIUC),Party,less than national average,96100.0,48200.0,68900.0,132000.0,177000.0,False
+"University of Maryland, College Park",Party,less than national average,95000.0,50400.0,68300.0,126000.0,166000.0,False
+"University of California, Santa Barbara (UCSB)",Party,less than national average,95000.0,51300.0,71200.0,129000.0,173000.0,False
+University of Texas (UT) - Austin,Party,less than national average,93900.0,50100.0,67400.0,129000.0,188000.0,False
+State University of New York (SUNY) at Albany,Party,less than national average,92200.0,47000.0,63100.0,135000.0,209000.0,False
+University of Florida (UF),Party,less than national average,87900.0,45400.0,62900.0,120000.0,172000.0,False
+Louisiana State University (LSU),Party,less than national average,87800.0,43700.0,61300.0,120000.0,165000.0,False
+University of Georgia (UGA),Party,less than national average,86000.0,43100.0,57800.0,118000.0,164000.0,False
+Pennsylvania State University (PSU),Party,less than national average,85700.0,46300.0,62000.0,117000.0,160000.0,False
+Arizona State University (ASU),Party,less than national average,84100.0,44600.0,60700.0,114000.0,163000.0,False
+"Indiana University (IU), Bloomington",Party,less than national average,84000.0,43600.0,60400.0,119000.0,178000.0,False
+University of Iowa (UI),Party,less than national average,83900.0,43300.0,61100.0,116000.0,163000.0,False
+Randolph-Macon College,Party,less than national average,83600.0,44250.64935064935,54100.0,123000.0,157705.6277056277,False
+"University of Alabama, Tuscaloosa",Party,less than national average,81400.0,40100.0,56500.0,117000.0,161000.0,False
+University of Mississippi,Party,less than national average,79700.0,40400.0,53500.0,108000.0,186000.0,False
+University of New Hampshire (UNH),Party,less than national average,78300.0,41700.0,56400.0,114000.0,147000.0,False
+West Virginia University (WVU),Party,less than national average,78100.0,39700.0,55700.0,106000.0,141000.0,False
+University of Tennessee,Party,less than national average,74600.0,41900.0,53200.0,106000.0,153000.0,False
+Ohio University,Party,less than national average,73400.0,36600.0,52800.0,106000.0,150000.0,False
+Florida State University (FSU),Party,less than national average,73000.0,39600.0,52800.0,107000.0,156000.0,False
+Bucknell University,Liberal Arts,less than national average,110000.0,62800.0,80600.0,156000.0,251000.0,False
+Colgate University,Liberal Arts,less than national average,108000.0,60000.0,76700.0,167000.0,265000.0,False
+Amherst College,Liberal Arts,less than national average,107000.0,44250.64935064935,84900.0,162000.0,157705.6277056277,True
+Lafayette College,Liberal Arts,less than national average,107000.0,70600.0,79300.0,144000.0,204000.0,False
+Bowdoin College,Liberal Arts,less than national average,107000.0,44250.64935064935,74600.0,146000.0,157705.6277056277,False
+College of the Holy Cross,Liberal Arts,less than national average,106000.0,44250.64935064935,65600.0,143000.0,157705.6277056277,False
+Occidental College,Liberal Arts,less than national average,105000.0,44250.64935064935,54800.0,157000.0,157705.6277056277,False
+Washington and Lee University,Liberal Arts,less than national average,104000.0,44250.64935064935,82800.0,146000.0,157705.6277056277,False
+Swarthmore College,Liberal Arts,less than national average,104000.0,44250.64935064935,67200.0,167000.0,157705.6277056277,False
+Davidson College,Liberal Arts,less than national average,104000.0,44250.64935064935,70500.0,146000.0,157705.6277056277,False
+Carleton College,Liberal Arts,less than national average,103000.0,44250.64935064935,69400.0,141000.0,157705.6277056277,False
+Williams College,Liberal Arts,less than national average,102000.0,44250.64935064935,76400.0,143000.0,157705.6277056277,True
+Pomona College,Liberal Arts,less than national average,101000.0,44250.64935064935,63300.0,161000.0,157705.6277056277,False
+"Wesleyan University (Middletown, Connecticut)",Liberal Arts,less than national average,97900.0,42000.0,62500.0,126000.0,215000.0,False
+Bates College,Liberal Arts,less than national average,96500.0,44250.64935064935,60700.0,162000.0,157705.6277056277,False
+Union College,Liberal Arts,less than national average,95800.0,48700.0,75200.0,135000.0,230000.0,False
+University of Richmond,Liberal Arts,less than national average,94600.0,44500.0,59400.0,151000.0,211000.0,False
+Vassar College,Liberal Arts,less than national average,94600.0,44250.64935064935,60600.0,123000.0,157705.6277056277,False
+Middlebury College,Liberal Arts,less than national average,94200.0,44250.64935064935,69100.0,129000.0,157705.6277056277,False
+Mount Holyoke College,Liberal Arts,less than national average,94100.0,44250.64935064935,57100.0,131000.0,157705.6277056277,False
+Franklin and Marshall College,Liberal Arts,less than national average,92800.0,44250.64935064935,55800.0,185000.0,157705.6277056277,False
+DePauw University,Liberal Arts,less than national average,88300.0,49500.0,57400.0,133000.0,185000.0,False
+St. Olaf College,Liberal Arts,less than national average,86200.0,41300.0,61000.0,120000.0,185000.0,False
+Colby College,Liberal Arts,less than national average,85800.0,44250.64935064935,63500.0,129000.0,157705.6277056277,False
+Gettysburg College,Liberal Arts,less than national average,85800.0,44250.64935064935,66300.0,132000.0,157705.6277056277,False
+Siena College,Liberal Arts,less than national average,85200.0,38700.0,58400.0,129000.0,189000.0,False
+Smith College,Liberal Arts,less than national average,83900.0,45100.0,59800.0,129000.0,184000.0,False
+Hamilton College,Liberal Arts,less than national average,83700.0,44250.64935064935,51900.0,123000.0,157705.6277056277,False
+Randolph-Macon College,Liberal Arts,less than national average,83600.0,44250.64935064935,54100.0,123000.0,157705.6277056277,False
+Wellesley College,Liberal Arts,less than national average,83500.0,44250.64935064935,58600.0,125000.0,157705.6277056277,False
+Denison University,Liberal Arts,less than national average,83500.0,44250.64935064935,62100.0,122000.0,157705.6277056277,False
+Oberlin College,Liberal Arts,less than national average,81600.0,44250.64935064935,46400.0,128000.0,157705.6277056277,False
+University of Puget Sound,Liberal Arts,less than national average,81500.0,48900.0,60100.0,104000.0,137000.0,False
+Colorado College (CC),Liberal Arts,less than national average,81400.0,44250.64935064935,43000.0,148000.0,157705.6277056277,False
+Reed College,Liberal Arts,less than national average,81100.0,44250.64935064935,67400.0,101000.0,157705.6277056277,False
+Gustavus Adolphus College,Liberal Arts,less than national average,80600.0,44250.64935064935,49300.0,101000.0,157705.6277056277,False
+Whitman College,Liberal Arts,less than national average,80100.0,44250.64935064935,64800.0,111000.0,157705.6277056277,False
+Ursinus College,Liberal Arts,less than national average,80000.0,35600.0,54300.0,100000.0,160000.0,False
+Juniata College,Liberal Arts,less than national average,78900.0,44250.64935064935,67200.0,110000.0,157705.6277056277,False
+Wittenberg University,Liberal Arts,less than national average,78200.0,44250.64935064935,54100.0,131000.0,157705.6277056277,False
+Grinnell College,Liberal Arts,less than national average,76600.0,44250.64935064935,65100.0,116000.0,157705.6277056277,False
+Skidmore College,Liberal Arts,less than national average,74600.0,44250.64935064935,42800.0,147000.0,157705.6277056277,False
+Moravian College,Liberal Arts,less than national average,74400.0,44250.64935064935,56700.0,94900.0,157705.6277056277,False
+Lewis & Clark College,Liberal Arts,less than national average,72600.0,38200.0,53400.0,104000.0,140000.0,False
+Fort Lewis College,Liberal Arts,less than national average,69800.0,44250.64935064935,55000.0,94000.0,157705.6277056277,False
+Thomas Aquinas College,Liberal Arts,less than national average,67500.0,44250.64935064935,44600.0,93100.0,157705.6277056277,False
+Evergreen State College,Liberal Arts,less than national average,63900.0,38800.0,47200.0,91600.0,120000.0,False
+Dartmouth College,Ivy League,more than national average,134000.0,63100.0,90200.0,234000.0,321000.0,True
+Princeton University,Ivy League,more than national average,131000.0,68900.0,100000.0,190000.0,261000.0,True
+Yale University,Ivy League,more than national average,126000.0,58000.0,80600.0,198000.0,326000.0,True
+Harvard University,Ivy League,more than national average,124000.0,54800.0,86200.0,179000.0,288000.0,True
+University of Pennsylvania,Ivy League,more than national average,120000.0,55900.0,79200.0,192000.0,282000.0,True
+Cornell University,Ivy League,more than national average,110000.0,56800.0,79800.0,160000.0,210000.0,True
+Brown University,Ivy League,less than national average,109000.0,55400.0,74400.0,159000.0,228000.0,True
+Columbia University,Ivy League,more than national average,107000.0,50300.0,71900.0,161000.0,241000.0,True
+"University of California, Berkeley",State,more than national average,112000.0,59500.0,81000.0,149000.0,201000.0,True
+University of Virginia (UVA),State,less than national average,103000.0,52200.0,71800.0,146000.0,215000.0,False
+Cal Poly San Luis Obispo,State,more than national average,101000.0,55000.0,74700.0,133000.0,178000.0,False
+University of California at Los Angeles (UCLA),State,less than national average,101000.0,51300.0,72500.0,139000.0,193000.0,False
+"University of California, San Diego (UCSD)",State,less than national average,101000.0,51700.0,75400.0,131000.0,177000.0,True
+"University of California, Davis",State,less than national average,99600.0,52000.0,71600.0,135000.0,202000.0,True
+University of Colorado - Boulder (UCB),State,less than national average,97600.0,51600.0,69000.0,128000.0,187000.0,False
+"University of California, Irvine (UCI)",State,less than national average,96700.0,47800.0,66000.0,123000.0,172000.0,False
+University of Illinois at Urbana-Champaign (UIUC),State,less than national average,96100.0,48200.0,68900.0,132000.0,177000.0,False
+Texas A&M University,State,less than national average,96100.0,51100.0,71300.0,131000.0,171000.0,False
+Binghamton University,State,less than national average,95900.0,50900.0,71200.0,146000.0,201000.0,False
+University of Missouri - Rolla (UMR),State,more than national average,95800.0,67600.0,80400.0,122000.0,166000.0,False
+San Jose State University (SJSU),State,less than national average,95600.0,50700.0,70500.0,122000.0,156000.0,False
+"University of Maryland, College Park",State,less than national average,95000.0,50400.0,68300.0,126000.0,166000.0,False
+"University of California, Santa Barbara (UCSB)",State,less than national average,95000.0,51300.0,71200.0,129000.0,173000.0,False
+University of Texas (UT) - Austin,State,less than national average,93900.0,50100.0,67400.0,129000.0,188000.0,False
+University of Michigan,State,less than national average,93000.0,50900.0,69400.0,128000.0,182000.0,False
+Stony Brook University,State,less than national average,93000.0,47200.0,67100.0,129000.0,181000.0,False
+State University of New York (SUNY) at Albany,State,less than national average,92200.0,47000.0,63100.0,135000.0,209000.0,False
+Rutgers University,State,less than national average,91800.0,48100.0,65100.0,128000.0,176000.0,False
+Purdue University,State,less than national average,90500.0,49900.0,67400.0,121000.0,168000.0,False
+University of Connecticut (UConn),State,less than national average,88800.0,46100.0,66400.0,120000.0,162000.0,False
+University of Massachusetts (UMass) - Amherst,State,less than national average,88200.0,43100.0,61300.0,122000.0,168000.0,False
+"California State University (CSU), Chico",State,less than national average,88100.0,46800.0,62800.0,122000.0,154000.0,False
+University of Florida (UF),State,less than national average,87900.0,45400.0,62900.0,120000.0,172000.0,False
+University of Wisconsin (UW) - Madison,State,less than national average,87800.0,47400.0,62400.0,118000.0,170000.0,False
+Louisiana State University (LSU),State,less than national average,87800.0,43700.0,61300.0,120000.0,165000.0,False
+"California State University, Fullerton (CSUF)",State,less than national average,87000.0,45400.0,62500.0,119000.0,158000.0,False
+George Mason University,State,less than national average,86900.0,51300.0,67200.0,114000.0,150000.0,False
+University of Massachusetts (UMass) - Lowell,State,less than national average,86600.0,50900.0,65000.0,113000.0,158000.0,False
+San Francisco State University (SFSU),State,less than national average,86400.0,45100.0,62700.0,114000.0,150000.0,False
+University of Arizona,State,less than national average,86100.0,44800.0,61700.0,117000.0,160000.0,False
+Clemson University,State,less than national average,86000.0,50500.0,61800.0,111000.0,150000.0,False
+University of Georgia (UGA),State,less than national average,86000.0,43100.0,57800.0,118000.0,164000.0,False
+Pennsylvania State University (PSU),State,less than national average,85700.0,46300.0,62000.0,117000.0,160000.0,False
+University of Washington (UW),State,less than national average,85300.0,47000.0,59800.0,115000.0,149000.0,False
+Michigan State University (MSU),State,less than national average,85300.0,44200.0,61500.0,119000.0,170000.0,False
+University of Rhode Island (URI),State,less than national average,85300.0,45400.0,60100.0,112000.0,157000.0,False
+San Diego State University (SDSU),State,less than national average,85200.0,45500.0,61800.0,116000.0,158000.0,False
+Auburn University,State,less than national average,84700.0,45400.0,62700.0,109000.0,145000.0,False
+Washington State University (WSU),State,less than national average,84700.0,43600.0,59000.0,113000.0,162000.0,False
+"California State University, Long Beach (CSULB)",State,less than national average,84700.0,47400.0,62500.0,113000.0,154000.0,False
+Iowa State University,State,less than national average,84600.0,44400.0,60000.0,109000.0,147000.0,False
+University of Delaware,State,less than national average,84500.0,44500.0,64000.0,119000.0,165000.0,False
+University of Colorado - Denver,State,less than national average,84400.0,46400.0,58600.0,105000.0,144000.0,False
+"California State University, East Bay (CSUEB)",State,less than national average,84300.0,46000.0,62400.0,115000.0,155000.0,False
+State University of New York (SUNY) at Farmingdale,State,less than national average,84200.0,50200.0,59800.0,110000.0,162000.0,False
+University of Minnesota,State,less than national average,84200.0,49000.0,63200.0,112000.0,148000.0,False
+Arizona State University (ASU),State,less than national average,84100.0,44600.0,60700.0,114000.0,163000.0,False
+"University of California, Santa Cruz (UCSC)",State,less than national average,84100.0,46100.0,62000.0,121000.0,165000.0,False
+"Indiana University (IU), Bloomington",State,less than national average,84000.0,43600.0,60400.0,119000.0,178000.0,False
+University of Iowa (UI),State,less than national average,83900.0,43300.0,61100.0,116000.0,163000.0,False
+Ohio State University (OSU),State,less than national average,83700.0,45500.0,60700.0,116000.0,162000.0,False
+North Carolina State University (NCSU),State,less than national average,83300.0,49200.0,64800.0,112000.0,153000.0,False
+Oregon State University (OSU),State,less than national average,83300.0,46900.0,64000.0,113000.0,146000.0,False
+University of Utah,State,less than national average,83200.0,43000.0,58400.0,116000.0,148000.0,False
+"University of Nevada, Reno (UNR)",State,less than national average,82900.0,41900.0,54600.0,113000.0,143000.0,False
+University of Oklahoma,State,less than national average,82900.0,41200.0,60300.0,114000.0,167000.0,False
+University of Arkansas,State,less than national average,82800.0,43200.0,60700.0,113000.0,160000.0,False
+University of Vermont (UVM),State,less than national average,82700.0,44700.0,58000.0,122000.0,194000.0,False
+University of Alabama at Huntsville (UAH),State,less than national average,82700.0,46100.0,67800.0,106000.0,132000.0,False
+"California State University, Sacramento (CSUS)",State,less than national average,82400.0,42900.0,59600.0,111000.0,154000.0,False
+University of Idaho,State,less than national average,82000.0,43000.0,56700.0,104000.0,142000.0,False
+University of Illinois at Chicago,State,less than national average,81700.0,44700.0,58800.0,110000.0,146000.0,False
+State University of New York (SUNY) at Buffalo,State,less than national average,81700.0,45900.0,61400.0,110000.0,147000.0,False
+University of Kansas,State,less than national average,81600.0,44800.0,57200.0,115000.0,156000.0,False
+University of New Mexico (UNM),State,less than national average,81600.0,41800.0,59100.0,105000.0,141000.0,False
+University of North Carolina at Chapel Hill (UNCH),State,less than national average,81500.0,43400.0,57500.0,117000.0,155000.0,False
+"University of Alabama, Tuscaloosa",State,less than national average,81400.0,40100.0,56500.0,117000.0,161000.0,False
+"University of California, Riverside (UCR)",State,less than national average,81300.0,37200.0,59900.0,109000.0,134000.0,False
+State University of New York (SUNY) at Geneseo,State,less than national average,81300.0,39300.0,47600.0,117000.0,173000.0,False
+University of Missouri - Columbia,State,less than national average,81000.0,43500.0,57100.0,111000.0,156000.0,False
+University of Nebraska,State,less than national average,80900.0,42200.0,56600.0,113000.0,156000.0,False
+University of Texas at Arlington (UTA),State,less than national average,80800.0,46400.0,61200.0,106000.0,138000.0,False
+Northern Illinois University (NIU),State,less than national average,80800.0,43900.0,60200.0,111000.0,161000.0,False
+Oklahoma State University,State,less than national average,80700.0,40100.0,56500.0,114000.0,151000.0,False
+University of North Dakota,State,less than national average,80600.0,43400.0,56400.0,111000.0,157000.0,False
+"California State University, Northridge (CSUN)",State,less than national average,80400.0,44500.0,57800.0,108000.0,153000.0,False
+University of Houston (UH),State,less than national average,79900.0,42000.0,56200.0,106000.0,141000.0,False
+University of Mississippi,State,less than national average,79700.0,40400.0,53500.0,108000.0,186000.0,False
+New Mexico State University,State,less than national average,79500.0,37400.0,53800.0,102000.0,131000.0,False
+Lamar University,State,less than national average,79400.0,38700.0,51600.0,114000.0,158000.0,False
+Mississippi State University (MSU),State,less than national average,79300.0,43300.0,58800.0,108000.0,151000.0,False
+Colorado State University (CSU),State,less than national average,79000.0,43800.0,57100.0,112000.0,150000.0,False
+Kansas State University (KSU),State,less than national average,79000.0,37200.0,54100.0,106000.0,138000.0,False
+University of Wyoming (UW),State,less than national average,78700.0,41500.0,54000.0,105000.0,145000.0,False
+Utah State University,State,less than national average,78700.0,41600.0,55400.0,101000.0,132000.0,False
+University of Wisconsin (UW) - Platteville,State,less than national average,78500.0,48400.0,61200.0,100000.0,139000.0,False
+University of Oregon,State,less than national average,78400.0,38100.0,56200.0,117000.0,186000.0,False
+University of Kentucky (UK),State,less than national average,78300.0,43000.0,57300.0,107000.0,149000.0,False
+University of New Hampshire (UNH),State,less than national average,78300.0,41700.0,56400.0,114000.0,147000.0,False
+University of Massachusetts (UMass) - Boston,State,less than national average,78200.0,36300.0,53800.0,109000.0,151000.0,False
+West Virginia University (WVU),State,less than national average,78100.0,39700.0,55700.0,106000.0,141000.0,False
+University of Maryland Baltimore County (UMBC),State,less than national average,77800.0,46900.0,59100.0,105000.0,130000.0,False
+North Dakota State University (NDSU),State,less than national average,77800.0,39000.0,55800.0,100000.0,123000.0,False
+State University of New York (SUNY) at Oswego,State,less than national average,77800.0,40400.0,53000.0,115000.0,169000.0,False
+University of Massachusetts (UMass) - Dartmouth,State,less than national average,77700.0,43300.0,56200.0,107000.0,132000.0,False
+Montana State University - Bozeman,State,less than national average,77500.0,40200.0,58100.0,111000.0,151000.0,False
+State University of New York (SUNY) at Oneonta,State,less than national average,76700.0,40000.0,54300.0,97700.0,155000.0,False
+University of Louisiana (UL) at Lafayette,State,less than national average,76300.0,42000.0,54500.0,107000.0,163000.0,False
+State University of New York (SUNY) at Plattsburgh,State,less than national average,76200.0,38400.0,54100.0,105000.0,136000.0,False
+Wayne State University,State,less than national average,76100.0,40100.0,56200.0,101000.0,139000.0,False
+University of Hawaii,State,less than national average,76000.0,40400.0,56300.0,104000.0,128000.0,False
+University of Toledo,State,less than national average,75900.0,40100.0,54100.0,100000.0,133000.0,False
+Florida International University (FIU),State,less than national average,75500.0,40500.0,55800.0,98200.0,136000.0,False
+University of Wisconsin (UW) - Whitewater,State,less than national average,75500.0,38200.0,53500.0,99300.0,150000.0,False
+Western Washington University,State,less than national average,75400.0,41300.0,56700.0,99200.0,119000.0,False
+Minnesota State University - Mankato,State,less than national average,74700.0,39500.0,53800.0,95700.0,140000.0,False
+University of Tennessee,State,less than national average,74600.0,41900.0,53200.0,106000.0,153000.0,False
+University of Wisconsin (UW) - Milwaukee,State,less than national average,74600.0,40600.0,54000.0,93700.0,123000.0,False
+University of Arkansas - Monticello (UAM),State,less than national average,74500.0,32800.0,46100.0,110000.0,161000.0,False
+Penn State - Harrisburg,State,less than national average,74000.0,44000.0,53100.0,104000.0,150000.0,False
+University of North Carolina at Charlotte (UNCC),State,less than national average,74000.0,38200.0,53200.0,99500.0,133000.0,False
+Georgia State University,State,less than national average,74000.0,43000.0,55300.0,99900.0,145000.0,False
+Western Michigan University (WMU),State,less than national average,73800.0,40100.0,52500.0,103000.0,135000.0,False
+South Dakota State University (SDSU),State,less than national average,73500.0,34100.0,49900.0,99400.0,129000.0,False
+Idaho State University,State,less than national average,73400.0,35400.0,49600.0,101000.0,143000.0,False
+Ohio University,State,less than national average,73400.0,36600.0,52800.0,106000.0,150000.0,False
+Illinois State University,State,less than national average,73400.0,39100.0,55200.0,105000.0,142000.0,False
+Cleveland State University,State,less than national average,73100.0,39500.0,51600.0,97000.0,137000.0,False
+Florida State University (FSU),State,less than national average,73000.0,39600.0,52800.0,107000.0,156000.0,False
+"University of Alaska, Anchorage",State,less than national average,72600.0,39800.0,56600.0,99300.0,137000.0,False
+Fitchburg State College,State,less than national average,72600.0,43300.0,56100.0,99600.0,151000.0,False
+University of Nebraska at Omaha,State,less than national average,72600.0,39500.0,54400.0,97400.0,126000.0,False
+Southern Illinois University Carbondale,State,less than national average,72500.0,38300.0,51300.0,99300.0,139000.0,False
+University of Texas at El Paso (UTEP),State,less than national average,72100.0,37700.0,50400.0,99500.0,133000.0,False
+"California State University, Dominguez Hills (CSUDH)",State,less than national average,72100.0,30800.0,47000.0,92200.0,132000.0,False
+University Of Maine,State,less than national average,72100.0,41700.0,55600.0,99300.0,141000.0,False
+Eastern Michigan University,State,less than national average,72100.0,37900.0,52800.0,95400.0,135000.0,False
+Bowling Green State University,State,less than national average,72100.0,38200.0,51800.0,101000.0,146000.0,False
+University of Montana,State,less than national average,71900.0,37000.0,51500.0,96400.0,138000.0,False
+University of Central Florida (UCF),State,less than national average,71700.0,39500.0,51500.0,98400.0,125000.0,False
+University of South Carolina,State,less than national average,71700.0,36300.0,49900.0,98400.0,131000.0,False
+"University of Nevada, Las Vegas (UNLV)",State,less than national average,71600.0,39000.0,52400.0,100000.0,128000.0,False
+St. Cloud State University,State,less than national average,71400.0,38700.0,49400.0,101000.0,126000.0,False
+University of Wisconsin (UW) - Parkside,State,less than national average,71400.0,40900.0,53100.0,84900.0,119000.0,False
+"California State University (CSU), Stanislaus",State,less than national average,71400.0,33700.0,50500.0,94100.0,121000.0,False
+Humboldt State University,State,less than national average,71300.0,36000.0,56300.0,94400.0,117000.0,False
+Florida Atlantic University (FAU),State,less than national average,71100.0,40700.0,53000.0,99500.0,137000.0,False
+University of South Florida (USF),State,less than national average,71100.0,39600.0,51500.0,98100.0,131000.0,False
+Portland State University (PSU),State,less than national average,70900.0,40700.0,52300.0,94400.0,123000.0,False
+Eastern Washington University,State,less than national average,70900.0,36000.0,50500.0,93100.0,117000.0,False
+University of Texas at San Antonio (UTSA),State,less than national average,70700.0,39100.0,49800.0,92700.0,121000.0,False
+University of Akron,State,less than national average,70300.0,40600.0,53300.0,95200.0,127000.0,False
+State University of New York (SUNY) at Potsdam,State,less than national average,70300.0,35100.0,51200.0,100000.0,179000.0,False
+University of Alabama at Birmingham (UAB),State,less than national average,70100.0,43000.0,53400.0,91400.0,125000.0,False
+University of Memphis (U of M),State,less than national average,69700.0,36100.0,49100.0,93500.0,127000.0,False
+Boise State University (BSU),State,less than national average,69500.0,37400.0,48700.0,87500.0,110000.0,False
+Missouri State University (MSU),State,less than national average,69500.0,33300.0,46900.0,102000.0,134000.0,False
+University of Wisconsin (UW) - La Crosse,State,less than national average,69300.0,37500.0,47200.0,93100.0,133000.0,False
+Appalachian State University,State,less than national average,69100.0,37200.0,50400.0,90800.0,115000.0,False
+Virginia Commonwealth University (VCU),State,less than national average,68400.0,37400.0,51900.0,100000.0,123000.0,False
+University of Wisconsin (UW) - Stout,State,less than national average,68300.0,40900.0,50600.0,91600.0,136000.0,False
+East Carolina University (ECU),State,less than national average,67500.0,38400.0,52000.0,98700.0,151000.0,False
+Utah Valley State College,State,less than national average,67100.0,27000.0,44100.0,84900.0,110000.0,False
+University of Missouri - St. Louis (UMSL),State,less than national average,67100.0,36800.0,49600.0,97600.0,144000.0,False
+Western Carolina University,State,less than national average,66600.0,39000.0,49500.0,94400.0,133000.0,False
+University of Wisconsin (UW) - Oshkosh,State,less than national average,66400.0,37700.0,49700.0,90100.0,138000.0,False
+State University of New York (SUNY) at Fredonia,State,less than national average,66200.0,32800.0,44200.0,93300.0,181000.0,False
+University of Missouri - Kansas City (UMKC),State,less than national average,65800.0,36300.0,48100.0,95800.0,124000.0,False
+University of Wisconsin (UW) - Eau Claire,State,less than national average,64800.0,35000.0,47300.0,93100.0,125000.0,False
+Ball State University (BSU),State,less than national average,64500.0,35500.0,48200.0,89300.0,128000.0,False
+University of North Carolina at Wilmington (UNCW),State,less than national average,64400.0,32100.0,46600.0,97100.0,129000.0,False
+University of Wisconsin (UW) - Stevens Point,State,less than national average,64000.0,38400.0,45100.0,95400.0,128000.0,False
+University of Southern Maine,State,less than national average,63600.0,40400.0,47900.0,85700.0,117000.0,False
+Arkansas State University (ASU),State,less than national average,63300.0,33600.0,45300.0,83900.0,118000.0,False
+Kent State University,State,less than national average,62600.0,36100.0,45800.0,87000.0,124000.0,False
+Tarleton State University (TSU),State,less than national average,62400.0,32100.0,47400.0,80400.0,126000.0,False
+University of Wisconsin (UW) - Green Bay,State,less than national average,60600.0,35500.0,46800.0,81800.0,102000.0,False
+Morehead State University,State,less than national average,60600.0,34300.0,46500.0,72000.0,91300.0,False
+Austin Peay State University,State,less than national average,59200.0,32200.0,40500.0,73900.0,96200.0,False
+Pittsburg State University,State,less than national average,58200.0,25600.0,46000.0,84600.0,117000.0,False
+Southern Utah University,State,less than national average,56500.0,30700.0,39700.0,78400.0,116000.0,False
+Montana State University - Billings,State,less than national average,50600.0,22600.0,31800.0,78500.0,98900.0,False
+Black Hills State University,State,less than national average,43900.0,27000.0,32200.0,60900.0,87600.0,False
