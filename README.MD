@@ -7,6 +7,8 @@ This dataset contains information about the salaries of different universities. 
 ## Install dependencies
 In order to use the `streamlit` and `python` files install dependencies `pip install -r requirements.txt`
 
+To run the project, use `streamlit run Home.py`
+
 ## Dataset Description
 
 The dataset consists of the following columns:
