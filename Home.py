@@ -6,6 +6,33 @@ import plotly.figure_factory as ff
 
 df = pd.read_csv('./assets/practice_dataset.csv')
 
+# Main page
+
+def mainpage():
+    
+    st.markdown("""
+    ### University Salary Dataset
+
+    This dataset contains information about the salaries of different universities. It provides insights into the starting median salary and mid-career median salary for various universities.
+
+    ### Dataset Description
+
+    The dataset consists of the following columns:
+
+    - ID: Unique identifier for each university
+    - University: Name of the university
+    - School Type: Type of school (e.g., Engineering, Party, Liberal Arts, Ivy League, State)
+    - Starting Median Salary: Median salary for graduates at the start of their careers
+    - Mid-Career Median Salary: Median salary for graduates in the middle of their careers
+    - Mid-Career 10th Percentile Salary: 10th percentile salary for graduates in the middle of their careers
+    - Mid-Career 25th Percentile Salary: 25th percentile salary for graduates in the middle of their careers
+    - Mid-Career 75th Percentile Salary: 75th percentile salary for graduates in the middle of their careers
+    - Mid-Career 90th Percentile Salary: 90th percentile salary for graduates in the middle of their careers
+    """)
+
+    st.title('Dataset')
+    st.write(df)
+
 # Visualizations
 
 def pie_chart():
@@ -76,9 +103,10 @@ def violinplot():
     violin_plot()
 
 
-
+    
 # Create a dictionary of the pages
 pages = {
+    "Main": mainpage,
     "Pie Chart": piechart,
     "Box Chart": boxplots,
     "Violin Plot": violinplot,
